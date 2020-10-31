@@ -18,6 +18,9 @@
 \usepackage{svg}
 \usepackage{float}
 
+\usepackage{lipsum}
+\usepackage{inputenc}
+
 % makes refs to images jump to top of image instead of jumping to caption below
 \usepackage[all]{hypcap}
 
@@ -122,6 +125,7 @@ Richard Rudolph\\
 \renewcommand\theadfont{\normalsize}
 
 
+
 \makeglossaries
 
 \begin{document}
@@ -130,13 +134,26 @@ Richard Rudolph\\
 	
 	\subfile{sections/Einleitung}
 	
-	\subfile{sections/Kraeuter}
+	%\subfile{sections/Kraeuter}
 	
-	\subfile{sections/Kraeutermischungen}
+	%\subfile{sections/Kraeutermischungen}
 		
 	\subfile{sections/Tinkturen}	
 	
-
+	\subfile{sections/Öle}
+	
+	\subfile{sections/Salben}
+	
+	\subfile{sections/Tee}
+	
+	\subfile{sections/Sonstiges}
+	
+	%\subfile{sections/Parkgarage}
+	
+	\nocite{*}
+	
+	\bibliographystyle{alpha}
+	\bibliography{Literatur}
 
 
 \end{document}
