@@ -1,24 +1,35 @@
-\begin{thebibliography}{Wei11}
+\begin{thebibliography}{Wein11}
+
+\bibitem[cel]{celticingwer}
+Ingwertinktur gegen Erkältung und Kopfschmerz.
+
+\bibitem[gie]{gierschsalbe}
+Gierschsalbe - altes Hausmittel bei Rheuma, Gicht \& Arthrose.
 
 \bibitem[hei]{heilkraeuterlexikon}
 Heilkräuterlexikon.
 
 \bibitem[kraa]{kraeuter-buch}
-Das kräuterbuch.
+Das Kräuterbuch.
 
 \bibitem[krab]{kraeuterweisheiten}
 Kräuterweisheiten.
 
-\bibitem[Lic83]{lichtenstern1983schwester}
+\bibitem[Lich83]{lichtenstern1983schwester}
 Hermann Lichtenstern.
 \newblock {\em Schwester Bernardines grosse Naturapotheke}.
-\newblock Mosaik Verlag, München, 1983.
+\newblock Mosaik Verlag, München.
+\newblock 1983.
 
-\bibitem[Wei11]{weinberger2011die}
+\bibitem[swr]{swrhandwerkskunst}
+SWR Handwerkskunst - Wie man natürliche Arznei herstellt.
+
+\bibitem[Wein11]{weinberger2011die}
 Renate Weinberger.
 \newblock {\em Die ganze Welt der Kräuter : [Eigenschaften, Verwendung,
   Wirkung}.
 \newblock Reader's Digest Deutschland, Schweiz, Österreich, Verl. Das Beste,
-  Stuttgart Zürich Wien, 2011.
+  Stuttgart Zürich Wien.
+\newblock 2011.
 
 \end{thebibliography}

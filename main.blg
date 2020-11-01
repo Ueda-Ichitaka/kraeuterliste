@@ -1,7 +1,5 @@
-This is BibTeX, Version 0.99d (TeX Live 2016/Debian)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: main.aux
-The style file: alpha.bst
+This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+The style file: itmalpha.bst
 Database file #1: Literatur.bib
 Warning--entry type for "heilkraeuterlexikon" isn't style-file defined
 --line 1 of file Literatur.bib
@@ -9,51 +7,16 @@ Warning--entry type for "kraeuter-buch" isn't style-file defined
 --line 9 of file Literatur.bib
 Warning--entry type for "kraeuterweisheiten" isn't style-file defined
 --line 17 of file Literatur.bib
-Warning--entry type for "ID" isn't style-file defined
+Warning--entry type for "swrhandwerkskunst" isn't style-file defined
 --line 44 of file Literatur.bib
+Warning--entry type for "gierschsalbe" isn't style-file defined
+--line 52 of file Literatur.bib
+Warning--entry type for "celticingwer" isn't style-file defined
+--line 60 of file Literatur.bib
+Warning--to sort, need author or key in celticingwer
+Warning--to sort, need author or key in swrhandwerkskunst
+Warning--to sort, need author or key in gierschsalbe
 Warning--to sort, need author or key in heilkraeuterlexikon
 Warning--to sort, need author or key in kraeuter-buch
 Warning--to sort, need author or key in kraeuterweisheiten
-Warning--to sort, need author or key in ID
-You've used 6 entries,
-            2543 wiz_defined-function locations,
-            579 strings with 4909 characters,
-and the built_in function-call counts, 1362 in all, are:
-= -- 120
-> -- 20
-< -- 2
-+ -- 5
-- -- 4
-* -- 70
-:= -- 180
-add.period$ -- 10
-call.type$ -- 6
-change.case$ -- 24
-chr.to.int$ -- 5
-cite$ -- 14
-duplicate$ -- 72
-empty$ -- 159
-format.name$ -- 8
-if$ -- 302
-int.to.chr$ -- 2
-int.to.str$ -- 0
-missing$ -- 4
-newline$ -- 25
-num.names$ -- 6
-pop$ -- 56
-preamble$ -- 1
-purify$ -- 32
-quote$ -- 0
-skip$ -- 68
-stack$ -- 0
-substring$ -- 46
-swap$ -- 6
-text.length$ -- 2
-text.prefix$ -- 2
-top$ -- 0
-type$ -- 40
-warning$ -- 4
-while$ -- 4
-width$ -- 7
-write$ -- 56
-(There were 8 warnings)
+(There were 12 warnings)
