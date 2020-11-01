@@ -1,12 +1,24 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{Wei11}
 
-\bibitem{kraeuter-buch}
-Das kräuterbuch.
-
-\bibitem{heilkraeuterlexikon}
+\bibitem[hei]{heilkraeuterlexikon}
 Heilkräuterlexikon.
 
-\bibitem{kraeuterweisheiten}
+\bibitem[kraa]{kraeuter-buch}
+Das kräuterbuch.
+
+\bibitem[krab]{kraeuterweisheiten}
 Kräuterweisheiten.
+
+\bibitem[Lic83]{lichtenstern1983schwester}
+Hermann Lichtenstern.
+\newblock {\em Schwester Bernardines grosse Naturapotheke}.
+\newblock Mosaik Verlag, München, 1983.
+
+\bibitem[Wei11]{weinberger2011die}
+Renate Weinberger.
+\newblock {\em Die ganze Welt der Kräuter : [Eigenschaften, Verwendung,
+  Wirkung}.
+\newblock Reader's Digest Deutschland, Schweiz, Österreich, Verl. Das Beste,
+  Stuttgart Zürich Wien, 2011.
 
 \end{thebibliography}
