@@ -69,6 +69,10 @@
 
 
 
+\usepackage{enumitem}
+\setitemize{itemsep=1pt}
+
+
 % change height of header to be able to make logo bigger :)
 \setlength{\headheight}{25pt}
 
@@ -128,6 +132,7 @@ Richard Rudolph, Florian Schäfer\\
 \renewcommand\cellgape{\Gape[4pt]}
 \renewcommand\theadfont{\normalsize}
 
+\usepackage{filecontents}
 
 \makeglossaries
 
@@ -160,6 +165,7 @@ Richard Rudolph, Florian Schäfer\\
 	
 	\bibliographystyle{itmalpha}
 	\bibliography{Literatur}
-
+	\addcontentsline{toc}{chapter}{Literaturverzeichnis}
+	
 
 \end{document}
