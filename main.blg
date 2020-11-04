@@ -9,17 +9,11 @@ Warning--entry type for "kraeuterweisheiten" isn't style-file defined
 --line 17 of file Literatur.bib
 Warning--entry type for "swrhandwerkskunst" isn't style-file defined
 --line 44 of file Literatur.bib
-Warning--entry type for "gierschsalbe" isn't style-file defined
---line 52 of file Literatur.bib
-Warning--entry type for "celticingwer" isn't style-file defined
---line 60 of file Literatur.bib
 Warning--entry type for "tinkturen" isn't style-file defined
---line 68 of file Literatur.bib
-Warning--to sort, need author or key in celticingwer
+--line 53 of file Literatur.bib
 Warning--to sort, need author or key in swrhandwerkskunst
-Warning--to sort, need author or key in gierschsalbe
 Warning--to sort, need author or key in heilkraeuterlexikon
 Warning--to sort, need author or key in kraeuter-buch
 Warning--to sort, need author or key in kraeuterweisheiten
 Warning--to sort, need author or key in tinkturen
-(There were 14 warnings)
+(There were 10 warnings)
