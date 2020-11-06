@@ -21,6 +21,8 @@
 \usepackage{lipsum}
 \usepackage{inputenc}
 
+\usepackage{makeidx}
+
 % makes refs to images jump to top of image instead of jumping to caption below
 \usepackage[all]{hypcap}
 
@@ -136,6 +138,8 @@ Richard Rudolph, Florian Schäfer\\
 
 \makeglossaries
 
+\makeindex
+
 \begin{document}
 	
 	\subfile{sections/Titel}
@@ -169,5 +173,8 @@ Richard Rudolph, Florian Schäfer\\
 	\bibliography{Literatur}
 	\addcontentsline{toc}{chapter}{Literaturverzeichnis}
 	
+	\printindex
+	
+		
 
 \end{document}
