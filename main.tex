@@ -2,7 +2,6 @@
 
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx, subfiles, hyperref, csquotes, enumitem, grffile, longtable, wrapfig, rotating}
-
 \usepackage[T1]{fontenc}    % avoid garbled Unicode text in pdf
 \usepackage[ngerman]{babel}  % german hyphenation, quotes, etc
 \usepackage{microtype}
@@ -17,22 +16,24 @@
 \usepackage{ltablex}
 \usepackage{svg}
 \usepackage{float}
-
 \usepackage{lipsum}
 \usepackage{inputenc}
-
 \usepackage{makeidx}
-
-% makes refs to images jump to top of image instead of jumping to caption below
-\usepackage[all]{hypcap}
-
+\usepackage{fourier} 
+\usepackage{array}
+\usepackage{makecell}
+\usepackage[all]{hypcap} % makes refs to images jump to top of image instead of jumping to caption below
 %\usepackage[none]{hyphenat} % DAS DING VERKACKT UNS DEN BLOCKSATZ!!
+\usepackage{pgfgantt}
+\usepackage{fancyhdr}
+\usepackage{enumitem}
+\usepackage{filecontents}
+
 
 \setlength\parindent{0pt} 
 
 \newcommand*\getlength[1]{\number#1}
 
-\usepackage{pgfgantt}
 
 \graphicspath{{images/}{../images/}}
 
@@ -49,9 +50,8 @@
 }
 
 % setup for header with logo
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-% Inhaltsverzeichnis und jede Chapter Seite hat keinen Header - wollen wir das so, oder soll der Header überall sein?
+
+\pagestyle{fancy}% Inhaltsverzeichnis und jede Chapter Seite hat keinen Header - wollen wir das so, oder soll der Header überall sein?
 \rhead{\includegraphics[height=1cm, draft]{images/logo.png}}
 %\lhead{\sectionmark}
 \lfoot{}
@@ -70,8 +70,6 @@
 }
 
 
-
-\usepackage{enumitem}
 \setitemize{itemsep=1pt}
 
 
@@ -125,16 +123,12 @@ Richard Rudolph, Florian Schäfer\\
 \renewcommand{\familydefault}{qhv}
 
 % to be able to have multiple lines in one cell (explicit line break) -> use \thead{}
-\usepackage{fourier} 
-\usepackage{array}
-\usepackage{makecell}
+
 
 \renewcommand\theadalign{bc}
 \renewcommand\theadgape{\Gape[4pt]}
 \renewcommand\cellgape{\Gape[4pt]}
 \renewcommand\theadfont{\normalsize}
-
-\usepackage{filecontents}
 
 \makeglossaries
 
