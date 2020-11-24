@@ -15,21 +15,21 @@ Eine Problematik mit Quellenbelegen ergibt sich aus selbst herausgefundenen Anwe
 - Bereits verfasste Texte mir Literaturquellen belegen
 - Tee
 - Stubs mit Texten füllen
- - Tee
- - Tinkturen
- - Öle
- - Salben
+	- Tee
+	- Tinkturen
+	- Öle
+	- Salben
 - Einleitung schreiben
 - Vorwort zu Kapiteln verfassen
- - Tee
- - Tinkturen
- - Öle
- - Oxymel
- - Salben
- - Kerzen
- - Seifen
- - Sonstiges
+	- Tee
+	- Tinkturen
+	- Öle
+	- Oxymel
+	- Salben
+	- Kerzen
+	- Seifen
+	- Sonstiges
 - Präambel ab Auszüge überarbeiten
 - Einheitliche Formatierung festlegen
- - Auflistung der Anwendungen oder Markierung im Fließtext
- - Siehe Tee vs Öle
+	- Auflistung der Anwendungen oder Markierung im Fließtext
+	- Siehe Tee vs Öle
