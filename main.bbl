@@ -1,4 +1,4 @@
-\begin{thebibliography}{Wein11}
+\begin{thebibliography}{Nedo18b}
 
 \bibitem[hei]{heilkraeuterlexikon}
 Heilkräuterlexikon heilkraeuter.de/lexikon.
@@ -15,11 +15,43 @@ Hermann Lichtenstern.
 \newblock Mosaik Verlag, München.
 \newblock 1983.
 
+\bibitem[Nedo18a]{nedoma2018heilsalben}
+Gabriela Nedoma.
+\newblock {\em Heilsalben aus Wald und Wiese einfach selbst gemacht}.
+\newblock Servus, Wals bei Salzburg.
+\newblock 2018.
+
+\bibitem[Nedo18b]{nedoma2018heiltinkturen}
+Gabriela Nedoma.
+\newblock {\em Heiltinkturen aus Wald und Wiese einfach selbst gemacht}.
+\newblock Servus, Wals bei Salzburg.
+\newblock 2018.
+
+\bibitem[Nedo19]{nedoma2019das}
+Gabriela Nedoma.
+\newblock {\em Das große Buch vom OXYMEL Medizin aus Honig und Essig}.
+\newblock Aesculus Verlag, Vachendorf.
+\newblock 2019.
+
+\bibitem[Rich16]{richberg2016altes}
+Inga-Maria Richberg.
+\newblock {\em Altes Gärtnerwissen wieder entdeckt Erfahrungsschatz
+  vergangener Zeiten}.
+\newblock blv, München.
+\newblock 2016.
+
 \bibitem[swr]{swrhandwerkskunst}
 SWR Handwerkskunst - Wie man natürliche Arznei herstellt.
 
 \bibitem[tin]{tinkturen}
 Tinkturen selbstgemacht.
+
+\bibitem[vBin17]{}
+Hildegard von Bingen.
+\newblock {\em Das große Buch der Hildegard von Bingen bewährtes Heilwissen
+  für Gesundheit und Wohlbefinden}.
+\newblock Naumann \& Göbel, Köln.
+\newblock 2017.
 
 \bibitem[Wein11]{weinberger2011die}
 Renate Weinberger.
