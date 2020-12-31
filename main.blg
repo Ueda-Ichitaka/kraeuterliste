@@ -1,19 +1,62 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+This is BibTeX, Version 0.99d (TeX Live 2016/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
 The style file: itmalpha.bst
 Database file #1: Literatur.bib
 Warning--entry type for "heilkraeuterlexikon" isn't style-file defined
---line 1 of file Literatur.bib
+--line 3 of file Literatur.bib
 Warning--entry type for "kraeuter-buch" isn't style-file defined
---line 9 of file Literatur.bib
+--line 11 of file Literatur.bib
 Warning--entry type for "kraeuterweisheiten" isn't style-file defined
---line 17 of file Literatur.bib
+--line 19 of file Literatur.bib
 Warning--entry type for "swrhandwerkskunst" isn't style-file defined
---line 44 of file Literatur.bib
+--line 46 of file Literatur.bib
 Warning--entry type for "tinkturen" isn't style-file defined
---line 53 of file Literatur.bib
+--line 55 of file Literatur.bib
 Warning--to sort, need author or key in heilkraeuterlexikon
 Warning--to sort, need author or key in tinkturen
 Warning--to sort, need author or key in swrhandwerkskunst
 Warning--to sort, need author or key in kraeuter-buch
 Warning--to sort, need author or key in kraeuterweisheiten
+You've used 12 entries,
+            2690 wiz_defined-function locations,
+            624 strings with 5726 characters,
+and the built_in function-call counts, 3041 in all, are:
+= -- 289
+> -- 61
+< -- 7
++ -- 16
+- -- 14
+* -- 143
+:= -- 445
+add.period$ -- 33
+call.type$ -- 12
+change.case$ -- 43
+chr.to.int$ -- 10
+cite$ -- 22
+duplicate$ -- 155
+empty$ -- 311
+format.name$ -- 28
+if$ -- 660
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 14
+newline$ -- 60
+num.names$ -- 21
+pop$ -- 99
+preamble$ -- 1
+purify$ -- 67
+quote$ -- 0
+skip$ -- 152
+stack$ -- 0
+substring$ -- 89
+swap$ -- 12
+text.length$ -- 7
+text.prefix$ -- 7
+top$ -- 0
+type$ -- 92
+warning$ -- 5
+while$ -- 14
+width$ -- 14
+write$ -- 135
 (There were 10 warnings)

@@ -19,6 +19,9 @@ Eine Problematik mit Quellenbelegen ergibt sich aus selbst herausgefundenen Anwe
 	- Tinkturen
 	- Öle
 	- Salben
+	- Allzweckwaffen
+	- Rauschmittel
+	- Sonstiges
 - Einleitung schreiben
 - Vorwort zu Kapiteln verfassen
 	- Tee
@@ -29,6 +32,8 @@ Eine Problematik mit Quellenbelegen ergibt sich aus selbst herausgefundenen Anwe
 	- Kerzen
 	- Seifen
 	- Sonstiges
+	- Allzweckwaffen
+	- Rauschmittel
 - Präambel ab Auszüge überarbeiten
 - Einheitliche Formatierung festlegen
 	- Auflistung der Anwendungen oder Markierung im Fließtext
