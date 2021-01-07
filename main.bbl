@@ -1,5 +1,17 @@
 \begin{thebibliography}{Nedo18b}
 
+\bibitem[Bern80]{bernardine1988heilkräuter}
+Schwester Bernardine.
+\newblock {\em Schwester Bernardines Heilkräuterbuch}.
+\newblock Orbis Verlag, München.
+\newblock 1980.
+
+\bibitem[Bern82]{bernardine1988hausmittel}
+Schwester Bernardine.
+\newblock {\em Schwester Bernardines Hausmittelbuch}.
+\newblock Orbis Verlag, München.
+\newblock 1982.
+
 \bibitem[hei]{heilkraeuterlexikon}
 Heilkräuterlexikon heilkraeuter.de/lexikon.
 
@@ -48,7 +60,8 @@ Tinkturen selbstgemacht.
 
 \bibitem[vBin17]{}
 Hildegard von Bingen.
-\newblock {\em Das große Buch der Hildegard von Bingen bewährtes Heilwissen für Gesundheit und Wohlbefinden}.
+\newblock {\em Das große Buch der Hildegard von Bingen bewährtes Heilwissen
+  für Gesundheit und Wohlbefinden}.
 \newblock Naumann \& Göbel, Köln.
 \newblock 2017.
 

@@ -2,8 +2,9 @@
 
   \item Akne, \hyperpage{20}
   \item Angespanntheit, \hyperpage{13}
-  \item Angstzustände, \hyperpage{19, 20}
-  \item Antidepressivum, \hyperpage{32}
+  \item Angstzustände, \hyperpage{19, 20}, \hyperpage{32}, 
+		\hyperpage{43}
+  \item Antidepressivum, \hyperpage{19}, \hyperpage{32}, \hyperpage{43}
   \item Appetitlosigkeit, \hyperpage{17}, \hyperpage{38}
   \item Arthrose, \hyperpage{28}, \hyperpage{44}
   \item Asthma, \hyperpage{13}
@@ -12,7 +13,7 @@
 
   \item Beruhigung, \hyperpage{20}
   \item Blasenentzündung, \hyperpage{28}, \hyperpage{44}
-  \item Blutergüsse, \hyperpage{19}
+  \item Blutergüsse, \hyperpage{19}, \hyperpage{32}, \hyperpage{43}
   \item Blähungen, \hyperpage{17}, \hyperpage{38}
 
   \indexspace
@@ -22,13 +23,14 @@
   \indexspace
 
   \item Darmregeneration, \hyperpage{29}
-  \item Depressive Stimmung, \hyperpage{19, 20}
+  \item Depressive Stimmung, \hyperpage{19, 20}, \hyperpage{32}, 
+		\hyperpage{43}
   \item Durchfallerkrankungen, \hyperpage{9}
 
   \indexspace
 
   \item Einschlafen, \hyperpage{13}
-  \item Entzündungen, \hyperpage{19}
+  \item Entzündungen, \hyperpage{19}, \hyperpage{32}, \hyperpage{43}
   \item Erkältung, \hyperpage{21}, \hyperpage{23}
   \item Erkältungskrankheiten, \hyperpage{7, 8}, \hyperpage{10, 11}, 
 		\hyperpage{13}, \hyperpage{22}, \hyperpage{27}, 
@@ -47,6 +49,8 @@
   \indexspace
 
   \item Halsschmerzen, \hyperpage{11}, \hyperpage{21}
+  \item Handgelenksschmerzen, \hyperpage{17}, \hyperpage{38}, 
+		\hyperpage{58}
   \item Hautirritation, \hyperpage{45}
   \item Hexenschuss, \hyperpage{17}, \hyperpage{38}
   \item Husten, \hyperpage{27}
@@ -61,7 +65,8 @@
 
   \indexspace
 
-  \item Juckreiz, \hyperpage{19}, \hyperpage{45}
+  \item Juckreiz, \hyperpage{19}, \hyperpage{32}, \hyperpage{43}, 
+		\hyperpage{45}
 
   \indexspace
 
@@ -74,37 +79,42 @@
 
   \indexspace
 
-  \item Lichtmangel, \hyperpage{19}
+  \item Lichtmangel, \hyperpage{19}, \hyperpage{32}, \hyperpage{43}
 
   \indexspace
 
-  \item Magen-Darm-Beschwerden, \hyperpage{12}
+  \item Magen-Darm-Beschwerden, \hyperpage{12}, \hyperpage{58}
   \item Magenbeschwerden, \hyperpage{12}, \hyperpage{21, 22}
   \item Magenschmerzen, \hyperpage{12}
   \item Magenschwäche, \hyperpage{17}, \hyperpage{38}
   \item Mandelentzündung, \hyperpage{11}, \hyperpage{23}
-  \item Massage, \hyperpage{32}, \hyperpage{34}
+  \item Massage, \hyperpage{19}, \hyperpage{32}, \hyperpage{34}, 
+		\hyperpage{43}
   \item Menstruationsbeschwerden, \hyperpage{13, 14}, \hyperpage{24}, 
-		\hyperpage{35}
-  \item Muskelentspannung, \hyperpage{32}, \hyperpage{34}, 
-		\hyperpage{38}
+		\hyperpage{35}, \hyperpage{58}
+  \item Muskelbeschwerden, \hyperpage{58}
+  \item Muskelentspannung, \hyperpage{19}, \hyperpage{32}, 
+		\hyperpage{34}, \hyperpage{38}, \hyperpage{43}
   \item Muskelkater, \hyperpage{17}, \hyperpage{38}
-  \item Muskelschmerzen, \hyperpage{17}, \hyperpage{38}
+  \item Muskelschmerzen, \hyperpage{17}, \hyperpage{38}, \hyperpage{58}
   \item Mückenstiche, \hyperpage{45}
 
   \indexspace
 
   \item Nackenschmerzen, \hyperpage{17}, \hyperpage{38}
-  \item Narben, \hyperpage{32}
-  \item Narbenentfernung, \hyperpage{32}
+  \item Narben, \hyperpage{19}, \hyperpage{32}, \hyperpage{43}
+  \item Narbenentfernung, \hyperpage{19}, \hyperpage{32}, 
+		\hyperpage{43}
   \item Nervenberuhigung, \hyperpage{20}
   \item Nervöse Herzschwäche, \hyperpage{13}
   \item Neuralgien, \hyperpage{13}
+  \item Neurodermitis, \hyperpage{58}
 
   \indexspace
 
   \item Periodenschmerzen, \hyperpage{14}
-  \item Prellungen, \hyperpage{19}, \hyperpage{46}
+  \item Prellungen, \hyperpage{19}, \hyperpage{32}, \hyperpage{43}, 
+		\hyperpage{46}
 
   \indexspace
 
@@ -118,11 +128,12 @@
 
   \item Schilddrüseninsuffizienz, \hyperpage{56}
   \item Schilddrüsenüberfunktion, \hyperpage{13}
-  \item Schlaflosigkeit, \hyperpage{19}
+  \item Schlaflosigkeit, \hyperpage{19}, \hyperpage{32}, \hyperpage{43}
   \item Schlafstörungen, \hyperpage{20}
-  \item Schmerzen, \hyperpage{19}
-  \item Schwellungen, \hyperpage{19}
-  \item Sonnenbrand, \hyperpage{19, 20}, \hyperpage{32}, \hyperpage{35}
+  \item Schmerzen, \hyperpage{19}, \hyperpage{32}, \hyperpage{43}
+  \item Schwellungen, \hyperpage{19}, \hyperpage{32}, \hyperpage{43}
+  \item Sonnenbrand, \hyperpage{19, 20}, \hyperpage{32}, \hyperpage{35}, 
+		\hyperpage{43}
   \item Stress, \hyperpage{20}
   \item Stärkung des Immunsystems, \hyperpage{8}, \hyperpage{56, 57}
 
@@ -135,15 +146,18 @@
   \item Verdauungsprobleme, \hyperpage{13}
   \item Verdauungsschwäche, \hyperpage{17}, \hyperpage{38}
   \item Verletzungen im Mund, \hyperpage{23}
-  \item Verspannungen, \hyperpage{17}, \hyperpage{38}
+  \item Verspannungen, \hyperpage{17}, \hyperpage{19}, \hyperpage{32}, 
+		\hyperpage{38}, \hyperpage{43}, \hyperpage{58}
 
   \indexspace
 
   \item Wechseljahren, \hyperpage{13}
-  \item Winterdepression, \hyperpage{19}, \hyperpage{32}
-  \item Wunden, \hyperpage{19}, \hyperpage{46}, \hyperpage{57}
-  \item Wundheilung, \hyperpage{32}
-  \item Wundversorgung, \hyperpage{32}
+  \item Winterdepression, \hyperpage{19}, \hyperpage{32}, 
+		\hyperpage{43}
+  \item Wunden, \hyperpage{19}, \hyperpage{32}, \hyperpage{43}, 
+		\hyperpage{46}, \hyperpage{57, 58}
+  \item Wundheilung, \hyperpage{19}, \hyperpage{32}, \hyperpage{43}
+  \item Wundversorgung, \hyperpage{19}, \hyperpage{32}, \hyperpage{43}
 
   \indexspace
 
