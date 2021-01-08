@@ -1,6 +1,6 @@
 \begin{thebibliography}{Nedo18b}
 
-\bibitem[Bern80]{bernardine1988heilkräuter}
+\bibitem[Bern80]{bernardine1988heilkrüuter}
 Schwester Bernardine.
 \newblock {\em Schwester Bernardines Heilkräuterbuch}.
 \newblock Orbis Verlag, München.
@@ -58,7 +58,13 @@ SWR Handwerkskunst - Wie man natürliche Arznei herstellt.
 \bibitem[tin]{tinkturen}
 Tinkturen selbstgemacht.
 
-\bibitem[vBin17]{}
+\bibitem[Treb87]{treben1987heilkrüuter}
+Maria Treben.
+\newblock {\em Heilkräuter aus dem Garten Gottes - Guter Rat aus meiner Kräuterbibel für Gesundheit und Wohlbefinden}.
+\newblock Ennsthaler, Steyr.
+\newblock 1987.
+
+\bibitem[vBin17]{bingen2017}
 Hildegard von Bingen.
 \newblock {\em Das große Buch der Hildegard von Bingen bewährtes Heilwissen
   für Gesundheit und Wohlbefinden}.

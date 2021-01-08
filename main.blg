@@ -1,4 +1,6 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+This is BibTeX, Version 0.99d (TeX Live 2016/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
 The style file: itmalpha.bst
 Database file #1: Literatur.bib
 Warning--entry type for "heilkraeuterlexikon" isn't style-file defined
@@ -16,4 +18,45 @@ Warning--to sort, need author or key in tinkturen
 Warning--to sort, need author or key in swrhandwerkskunst
 Warning--to sort, need author or key in kraeuter-buch
 Warning--to sort, need author or key in kraeuterweisheiten
+You've used 15 entries,
+            2690 wiz_defined-function locations,
+            639 strings with 6060 characters,
+and the built_in function-call counts, 3893 in all, are:
+= -- 370
+> -- 85
+< -- 10
++ -- 22
+- -- 20
+* -- 182
+:= -- 589
+add.period$ -- 45
+call.type$ -- 15
+change.case$ -- 55
+chr.to.int$ -- 13
+cite$ -- 25
+duplicate$ -- 200
+empty$ -- 386
+format.name$ -- 40
+if$ -- 837
+int.to.chr$ -- 3
+int.to.str$ -- 0
+missing$ -- 20
+newline$ -- 78
+num.names$ -- 30
+pop$ -- 120
+preamble$ -- 1
+purify$ -- 85
+quote$ -- 0
+skip$ -- 188
+stack$ -- 0
+substring$ -- 110
+swap$ -- 15
+text.length$ -- 10
+text.prefix$ -- 10
+top$ -- 0
+type$ -- 110
+warning$ -- 5
+while$ -- 20
+width$ -- 17
+write$ -- 177
 (There were 10 warnings)

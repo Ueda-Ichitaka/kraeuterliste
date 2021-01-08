@@ -22,6 +22,8 @@ Eine Problematik mit Quellenbelegen ergibt sich aus selbst herausgefundenen Anwe
 	- Allzweckwaffen
 	- Rauschmittel
 	- Sonstiges
+	- Leiden
+	- Oxymel
 - Einleitung schreiben
 - Vorwort zu Kapiteln verfassen
 	- Tee
@@ -34,6 +36,7 @@ Eine Problematik mit Quellenbelegen ergibt sich aus selbst herausgefundenen Anwe
 	- Sonstiges
 	- Allzweckwaffen
 	- Rauschmittel
+	- Leiden
 - Präambel ab Auszüge überarbeiten
 - Einheitliche Formatierung festlegen
 	- Auflistung der Anwendungen oder Markierung im Fließtext
